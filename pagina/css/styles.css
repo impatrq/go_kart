@@ -1,0 +1,135 @@
+body {
+    background-image: url("/Logo\ Go-Kart.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+.navbar.navbar-expand-lg {
+    background-color: rgb(151, 3, 3);
+    
+}
+
+.separator{
+
+    border-top: 4px solid white;
+}
+
+.nav-item {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+h1{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 60px;
+    font-family: 'Courier New', monospace;
+}
+p{
+    margin-top: 250px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', monospace;
+    
+}
+
+body {
+    background-attachment: fixed;
+    font-family: monospace;
+}
+
+form {
+    width: 450px;
+    margin: auto;
+    background: rgba(0,0,0,0.4 );
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+h2 {
+    color: #fff;
+    text-align: 17px;
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+}
+
+textarea {
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+
+
+}
+
+#boton {
+    background: #31384a;
+    color: #fff;
+    padding: 20px;
+
+}
+
+#boton:hover {
+    cursor: pointer;
+}
+
+
+@media (max-width:480px) {
+    form{
+        width: 100%;
+    }
+}
+.descripcion_integrante {
+    margin: 0%;
+}
+.integrante {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 125px;
+}
+#titulo {
+    margin-bottom: 220px;
+}
+
+.contenedor_imagenes {
+    display: flex;
+    justify-content:center;
+    gap: 5%;
+    
+}
+.borde_imagen {
+    border-radius: 100px;
+    height: 400px;
+}
+.fotoint {
+    height: 200px;
+    border-radius: 25%;
+}
+
+
