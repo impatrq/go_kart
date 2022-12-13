@@ -1,5 +1,5 @@
 # Go Kart
-
+<div align="center">
 <img src="imagenes/logo.jpeg" alt="Logo proyecto" width="250"/>
 
 </div>
