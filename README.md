@@ -1,6 +1,6 @@
 # Go Kart
 
-<img src="" alt="Logo proyecto" width="250"/>
+<img src="imagenes/logo.jpeg" alt="Logo proyecto" width="250"/>
 
 </div>
 
